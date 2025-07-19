@@ -1,1 +1,1 @@
-# [UCB CS189/289A](https://eecs189.org/)
+# [cs189](https://eecs189.org/)

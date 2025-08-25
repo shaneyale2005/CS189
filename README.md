@@ -1,1 +1,1 @@
-# [cs189](https://eecs189.org/)
+# [CS189](https://eecs189.org/)
